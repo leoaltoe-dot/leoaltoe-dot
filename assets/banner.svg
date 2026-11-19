@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="270" viewBox="0 0 960 270">
+<defs><linearGradient id="bg"><stop stop-color="#101827"/><stop offset="1" stop-color="#192549"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#7188ba" opacity=".22"/></pattern></defs>
+<rect width="960" height="270" rx="24" fill="url(#bg)"/><rect x="565" y="35" width="350" height="200" rx="16" fill="url(#grid)"/>
+<path d="M580 194 L634 166 L675 177 L723 123 L759 142 L812 86 L853 105 L902 59" fill="none" stroke="#69edce" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><circle r="7" fill="#fff"><animateMotion dur="4s" repeatCount="indefinite" path="M580 194 L634 166 L675 177 L723 123 L759 142 L812 86 L853 105 L902 59"/></circle>
+<text x="52" y="83" fill="#69edce" font-family="monospace" font-size="19" letter-spacing="3">DIGITAL ANALYTICS</text><text x="49" y="151" fill="#f4f7ff" font-family="system-ui,sans-serif" font-size="59" font-weight="700">Leonardo Altoé</text><text x="52" y="197" fill="#b9c6e0" font-family="system-ui,sans-serif" font-size="24">Tracking · Dados · Automação</text>
+</svg>
